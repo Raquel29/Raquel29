@@ -15,6 +15,7 @@
   <img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
   <img height="32" src=" https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></code>
   <img height="32" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></code>
+ <img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></code>
 </p>
 
 <!--- <p align="left">
