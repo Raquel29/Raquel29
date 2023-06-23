@@ -3,7 +3,7 @@
 <p align="left"> 
  💜 Olá, meu nome é <strong>Raquel </strong>
   
- 🎓 &nbsp;Sou formada em <strong>Ciência da Computação</strong> no <a href="https://www.ifb.edu.br/">IFB</a>
+ 🎓 &nbsp;Formada em <strong>Ciência da Computação</strong> no <a href="https://www.ifb.edu.br/">IFB</a>
  
   :woman_technologist: Trabalho como <strong>Analísta de Dados </strong>
 </p>
